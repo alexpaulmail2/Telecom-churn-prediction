@@ -2,9 +2,9 @@
 ## ANN,SVM,RF
 Customer churn is a problem that all companies need to monitor, especially those that depend on subscription-based revenue streams. The simple fact is that most organizations have data that can be used to target these individuals and to understand the key drivers of churn.Customer churn occurs when customers or subscribers stop doing business with a company or service, also known as customer attrition. It is also referred as loss of clients or customers. One industry in which churn rates are particularly useful is the telecommunications industry, because most customers have multiple options from which to choose within a geographic location..
 In this work I have used three methods for churn prediction. 
-1. Random Forest
-2. Support Vector Machine(SVM)
-3. Artificial Neural Network(ANN)
+1. Random Forest.
+2. Support Vector Machine(SVM).
+3. Artificial Neural Network(ANN).
 
 DataSet used: IBM Watson Telco Customer Churn Dataset  https://www.kaggle.com/blastchar/telco-customer-churn
 
